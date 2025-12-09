@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI/ML integration in web applications**
 
-- 👨‍💻 All of my projects are available at [https://sweekarbajimaya-portfolio.web.app/](https://sweekarbajimaya-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://sweekarbajimaya-portfolio.web.app/](https://sweekarbajimaya.com.np/)
 
 - 💬 Ask me about **Python, Django**
 
