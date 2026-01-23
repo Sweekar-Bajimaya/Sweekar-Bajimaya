@@ -13,7 +13,12 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+<!-- Light mode -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only)
+
+<!-- Dark mode -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)
+
 
 ---
 
