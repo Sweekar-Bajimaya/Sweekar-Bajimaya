@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Tech Enthusiast | AI/ML Explorer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Merojob Backend Trainee<br><br>🌱 I’m currently learning Django REST Framework (DRF), Machine Learning basics, TypeScirpt<br><br>👯 I’m looking to collaborate on Open-source Django or React projects<br><br>🤝 I’m looking for help with AI/ML integration in web applications<br><br>👨‍💻 All of my projects are available at https://sweekarbajimaya.com.np/<br><br>💬 Ask me about Python, Django<br><br>📫 How to reach me sweekarbajimaya10@gmail.com<br><br>⚡ Fun fact I think I’m funny — and my code sometimes agrees 😄
+🔭 I’m currently working on Merojob Backend Developer<br><br>🌱 I’m currently learning Django REST Framework (DRF), Machine Learning basics, TypeScirpt<br><br>👯 I’m looking to collaborate on Open-source Django or React projects<br><br>🤝 I’m looking for help with AI/ML integration in web applications<br><br>👨‍💻 All of my projects are available at https://sweekarbajimaya.com.np/<br><br>💬 Ask me about Python, Django<br><br>📫 How to reach me sweekarbajimaya10@gmail.com<br><br>⚡ Fun fact I think I’m funny — and my code sometimes agrees 😄
 
 
 ## 🌐 Socials:
